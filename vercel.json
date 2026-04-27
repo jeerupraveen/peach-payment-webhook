@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://test-caps.artofliving.org/webhooks/8"
+    }
+  ]
+}
